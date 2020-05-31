@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindableMap", "BindableMap\BindableMap.csproj", "{058C4950-76D8-4245-A67C-A049D6E1F415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BindableMap", "BindableMap\BindableMap.csproj", "{058C4950-76D8-4245-A67C-A049D6E1F415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindableMap.Test", "BindableMap.Test\BindableMap.Test.csproj", "{D37D317F-5C86-42FE-BA20-857621D8C4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{058C4950-76D8-4245-A67C-A049D6E1F415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058C4950-76D8-4245-A67C-A049D6E1F415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058C4950-76D8-4245-A67C-A049D6E1F415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37D317F-5C86-42FE-BA20-857621D8C4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37D317F-5C86-42FE-BA20-857621D8C4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37D317F-5C86-42FE-BA20-857621D8C4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37D317F-5C86-42FE-BA20-857621D8C4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
